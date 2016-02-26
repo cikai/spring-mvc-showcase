@@ -1,7 +1,8 @@
 ### spring mvc showcase
 
   - 本工程参考官方的[spring mvc showcase](https://github.com/spring-projects/spring-mvc-showcase)
-  对部分内容进行了简化
+
+    对部分内容进行了简化
 
   - 增加了，controller接收各种提交和数据接收的demo
 
